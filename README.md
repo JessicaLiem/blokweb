@@ -18,11 +18,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ### Auteur:
 Jessica Liem
 
+ 
 #### Je startniveau:
 Blauw
 
+ 
 #### Je focus:
 Responsive
+ 
  
 </details>
 
