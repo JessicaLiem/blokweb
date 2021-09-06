@@ -47,7 +47,7 @@ hier de naam van de pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="np community.jpeg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
