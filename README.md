@@ -39,14 +39,14 @@ Responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+http://www.neopets.com/index.phtml?lang=nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Log in scherm
 <img src="np log in.jpeg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Community tab
 <img src="np community.jpeg" width="375px" alt="omschrijving van de pagina">
  
 </details>
