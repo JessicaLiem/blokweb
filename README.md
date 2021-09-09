@@ -43,7 +43,7 @@ https://www.drmartens.com/nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Log in scherm
-<img src="np log in.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="docsite.png" width="375px" alt="website doc martens">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Community tab
