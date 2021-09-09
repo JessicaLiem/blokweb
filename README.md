@@ -67,8 +67,8 @@ Community tab
 
 
 ### wellicht nog een dynamisch deel (bijv filter): 
- Korte autoplay loop van video's.
-<img src="dmd2.png" width="375px" alt="breakdown van nog een dynamisch deel">
+ filter
+<img src="doctas.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
