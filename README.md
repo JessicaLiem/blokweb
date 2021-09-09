@@ -47,7 +47,7 @@ Log in scherm
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Community tab
-<img src="np community.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="docsite2" width="375px" alt="de tassen verkoop pagina van doc martens">
  
 </details>
 
