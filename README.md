@@ -39,7 +39,7 @@ Responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-http://www.neopets.com/index.phtml?lang=nl
+https://www.drmartens.com/nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Log in scherm
@@ -61,13 +61,14 @@ Community tab
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="DOC MARTENS dynamisch deel 1.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="DOC MARTENS dynamisch deel 1.png" width="375px" alt="breakdown van de hele pagina">
+
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+ Korte autoplay loop van video's.
+<img src="dmd2.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
